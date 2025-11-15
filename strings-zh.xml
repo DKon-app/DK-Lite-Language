@@ -1,0 +1,682 @@
+<resources>
+
+    <!-- DKon.app | DK Lite -->
+
+    <string name="app_lang_code">zh</string>
+
+    <string name="action_login">登录</string>
+    <string name="action_signup">注册</string>
+    <string name="action_logout">退出</string>
+    <string name="action_settings">设置</string>
+    <string name="action_continue">继续</string>
+    <string name="action_unblock">解锁</string>
+    <string name="action_block">封锁</string>
+    <string name="action_about">关于应用</string>
+    <string name="action_ok">好的</string>
+    <string name="action_yes">是</string>
+    <string name="action_no">否</string>
+    <string name="action_copy">复制</string>
+    <string name="action_save">保存</string>
+    <string name="action_send">发送</string>
+    <string name="action_open">打开</string>
+    <string name="action_edit">编辑</string>
+    <string name="action_reply">回复</string>
+    <string name="action_refresh">刷新</string>
+    <string name="action_report">举报</string>
+    <string name="action_remove">删除</string>
+    <string name="action_remove_chat">删除聊天</string>
+    <string name="action_deactivate">停用</string>
+    <string name="action_create">创建</string>
+    <string name="action_cancel">取消</string>
+    <string name="action_close">关闭</string>
+    <string name="action_more">加载更多</string>
+    <string name="action_post">发布</string>
+    <string name="action_search">搜索</string>
+    <string name="action_retry">重试</string>
+    <string name="action_turn_on">开启</string>
+    <string name="action_turn_off">关闭</string>
+    <string name="action_select_birth">出生日期</string>
+    <string name="action_camera">相机</string>
+    <string name="action_gallery">从图库选择</string>
+    <string name="action_copy_url">复制链接</string>
+    <string name="action_open_url">在浏览器中打开</string>
+    <string name="settings_allow_comments">允许对我的帖子评论</string>
+    <string name="settings_allow_messages">接受来自所有人的消息</string>
+    <string name="settings_allow_messages_summary">您将能够接收来自任何用户的私人消息，即使他们不是您的朋友。</string>
+    <string name="action_share">分享</string>
+    <string name="action_share_on_wall">在我的墙上</string>
+    <string name="action_follow">关注</string>
+    <string name="action_unfollow">取消关注</string>
+    <string name="action_new">新帖子</string>
+    <string name="action_profile_edit_photo">更改照片</string>
+    <string name="action_profile_edit_cover">更改封面</string>
+    <string name="action_profile_edit">编辑</string>
+    <string name="action_login_with_facebook">通过 Facebook 登录</string>
+    <string name="action_signup_with_facebook">通过 Facebook 注册</string>
+    <string name="action_connect_with_facebook">连接到 Facebook</string>
+    <string name="action_remove_connection">删除连接</string>
+    <string name="action_regular_signup">返回常规注册</string>
+    <string name="action_forgot_password">忘记密码？</string>
+    <string name="label_profile_report_0">垃圾邮件</string>
+    <string name="label_profile_report_1">仇恨言论或暴力</string>
+    <string name="label_profile_report_2">裸露或色情</string>
+    <string name="label_profile_report_3">虚假资料</string>
+    <string name="label_profile_report_4">盗版</string>
+    <string name="label_sex_undefined">性别未指定</string>
+    <string name="label_sex_male">男性</string>
+    <string name="label_sex_female">女性</string>
+    <string name="placeholder_password">密码</string>
+    <string name="placeholder_login">用户名</string>
+    <string name="placeholder_fullname">全名</string>
+    <string name="placeholder_location">位置</string>
+    <string name="placeholder_facebook_page">Facebook 页面</string>
+    <string name="placeholder_instagram_page">Instagram 页面</string>
+    <string name="placeholder_bio">关于我</string>
+    <string name="placeholder_email">电子邮件</string>
+    <string name="placeholder_subject">主题</string>
+    <string name="placeholder_support_detail">您有什么问题？</string>
+    <string name="placeholder_current_password">当前密码</string>
+    <string name="placeholder_new_password">新密码</string>
+    <string name="placeholder_item_category">类别</string>
+    <string name="placeholder_item_title">标题</string>
+    <string name="placeholder_item_login">用户名、电子邮件或电话</string>
+    <string name="placeholder_item_passw">密码</string>
+    <string name="placeholder_item_url">网站</string>
+    <string name="placeholder_item_description">描述</string>
+    <string name="placeholder_post">你在想什么？</string>
+    <string name="placeholder_search">搜索</string>
+    <string name="placeholder_comment">输入评论&#8230;</string>
+    <string name="placeholder_message">输入消息&#8230;</string>
+    <string name="placeholder_repost">您的评论&#8230;</string>
+    <string name="msg_loading">请稍候&#8230;</string>
+    <string name="msg_loading_2">加载中。请稍候&#8230;</string>
+    <string name="msg_network_error">请检查您的互联网连接</string>
+    <string name="msg_account_blocked">该账户已被管理员封锁。</string>
+    <string name="msg_copied_to_clipboard">已复制到剪贴板。</string>
+    <string name="msg_enter_item">请写点什么或附加照片。</string>
+    <string name="msg_enter_msg">请写点什么或附加照片。</string>
+    <string name="msg_send_msg_error">您无法向该用户发送消息。</string>
+    <string name="msg_item_posted">项目已成功发布。</string>
+    <string name="msg_item_saved">项目已成功保存。</string>
+    <string name="msg_password_changed">密码已成功更改</string>
+    <string name="msg_settings_saved">设置已成功保存。</string>
+    <string name="msg_ticket_send_success">您的请求已被接受！您将收到发送到请求中指定的电子邮件的回复。</string>
+    <string name="msg_password_reset_link_sent">重置密码的链接已发送到您的电子邮件。</string>
+    <string name="msg_no_such_user_in_bd">数据库中没有该用户</string>
+    <string name="msg_connect_to_facebook_success">您已成功将应用程序与您的 Facebook 账户关联！</string>
+    <string name="msg_connect_to_facebook_error">您的 Facebook 账户已与另一个账户关联。</string>
+    <string name="msg_connect_to_facebook_removed">与您的 Facebook 账户的关联已被删除。</string>
+    <string name="msg_comment_has_been_added">评论已添加。</string>
+    <string name="msg_chat_has_been_removed">聊天已删除。</string>
+    <string name="msg_profile_removed_from_blacklist">用户已从黑名单中删除。</string>
+    <string name="msg_profile_link_copied">个人资料链接已复制到剪贴板。</string>
+    <string name="msg_post_link_copied">帖子链接已复制到剪贴板。</string>
+    <string name="msg_profile_added_to_blacklist">用户已添加到黑名单。</string>
+    <string name="msg_comments_disabled">用户不希望对他的帖子发表评论。</string>
+    <string name="msg_post_has_been_shared">该帖子已在您的朋友动态中发布。</string>
+    <string name="msg_post_has_been_already_shared">您已经分享了该帖子。</string>
+    <string name="msg_post_has_shared_error">您无法重新发布自己的帖子。</string>
+    <string name="error_signin">用户名或密码错误</string>
+    <string name="error_internet_connection">没有互联网连接</string>
+    <string name="error_data_loading">加载数据时出错。请检查您的互联网连接。</string>
+    <string name="error_field_empty">必填字段未填写</string>
+    <string name="error_wrong_format">格式错误</string>
+    <string name="error_small_password">至少6个字符</string>
+    <string name="error_small_username">至少5个字符</string>
+    <string name="error_small_fullname">至少2个字符</string>
+    <string name="error_login_taken">用户名已被占用</string>
+    <string name="error_email_taken">该电子邮件已注册用户</string>
+    <string name="error_password">密码错误。</string>
+    <string name="error_email">电子邮件错误。</string>
+    <string name="label_gcm_like">您有新的点赞。</string>
+    <string name="label_gcm_comment">您有新的评论。</string>
+    <string name="label_gcm_follower">您有新的关注者。</string>
+    <string name="label_gcm_friend">您有新的朋友。</string>
+    <string name="label_gcm_message">您有新消息。</string>
+    <string name="label_gcm_comment_reply">您有新的评论回复。</string>
+    <string name="label_authorization_via_facebook">通过 Facebook 授权。</string>
+    <string name="label_account_connected_to_facebook">已连接到 Facebook</string>
+    <string name="label_account_connect_to_facebook">将此账户与您的社交网络关联</string>
+    <string name="label_empty_list">列表为空。</string>
+    <string name="label_post_share">分享帖子</string>
+    <string name="label_post_share_desc">您想在自己的墙上发布该帖子吗？</string>
+    <string name="label_block">封锁</string>
+    <string name="label_block_msg">将无法对您的帖子发表评论和发送消息，您也不会收到来自</string>
+    <string name="label_delete">删除</string>
+    <string name="label_delete_msg">您确定要删除此帖子吗？</string>
+    <string name="label_delete_comment">您确定要删除此评论吗？</string>
+    <string name="label_post_report_title">违规报告</string>
+    <string name="label_last_message_image">图片</string>
+    <string name="label_you_havent_items">您没有帖子。</string>
+    <string name="label_user_havent_items">该用户没有帖子。</string>
+    <string name="label_profile_reported">个人资料已报告。</string>
+    <string name="label_post_reported">帖子已报告。</string>
+    <string name="label_select_img">选择图片</string>
+    <string name="label_delete_img">删除图片？</string>
+    <string name="label_account_disabled">账户已被禁用</string>
+    <string name="label_search_start_screen_msg">通过用户名、姓名或电子邮件查找人。</string>
+    <string name="label_search_results">搜索结果：</string>
+    <string name="label_search_results_error">未找到结果</string>
+    <string name="label_likes_item">点赞了您的帖子。</string>
+    <string name="label_comment_added">添加了新评论。</string>
+    <string name="label_comment_reply_added">回复了您的评论。</string>
+    <string name="label_follow_you">关注了您。</string>
+    <string name="label_post_to_dialog_title">分享给</string>
+    <string name="label_post_to">给：</string>
+    <string name="label_post_to_followers">关注者</string>
+    <string name="label_post_to_public">公开</string>
+    <string name="label_post_location">位置：</string>
+    <string name="label_items">帖子</string>
+    <string name="label_followers">关注者</string>
+    <string name="label_followings">关注</string>
+    <string name="label_likes">点赞</string>
+    <string name="label_online">在线</string>
+    <string name="label_offline">离线</string>
+    <string name="label_to">到</string>
+    <string name="signup_label_1">点击注册即表示您同意我们的</string>
+    <string name="signup_label_terms_and_policies">条款和政策</string>
+    <string name="settings_header_general">常规</string>
+    <string name="settings_header_others">其他</string>
+    <string name="settings_header_about">关于应用</string>
+    <string name="settings_header_notifications">通知</string>
+    <string name="settings_notifications_likes">点赞</string>
+    <string name="settings_notifications_comments">评论</string>
+    <string name="settings_notifications_followers">关注者</string>
+    <string name="settings_notifications_messages">私信</string>
+    <string name="settings_notifications_comment_reply">评论回复</string>
+    <string name="settings_version">版本</string>
+    <string name="settings_logout">退出账户</string>
+    <string name="settings_copyright_info">版权信息</string>
+    <string name="settings_contact_us">联系我们</string>
+    <string name="settings_contact_us_summary">报告问题</string>
+    <string name="settings_web_site">我们的网站</string>
+    <string name="settings_view_blocked_list">查看被阻止的列表</string>
+    <string name="settings_deactivate_account">停用账户</string>
+    <string name="settings_edit_account">您的秘密签名</string>
+    <string name="settings_thanks">感谢</string>
+    <string name="settings_terms">使用条款</string>
+    <string name="settings_change_password">更改密码</string>
+    <string name="settings_services">服务</string>
+    <string name="settings_notifications">推送通知</string>
+    <string name="settings_services_summary">连接社交网络</string>
+    <string name="settings_account_deactivation">如果您停用您的账户，您将无法恢复它。如果您想回来，您必须创建一个新账户。</string>
+    <string name="settings_file" translatable="false">账户</string>
+    <string name="settings_account_id" translatable="false">账户标识符</string>
+    <string name="settings_account_username" translatable="false">账户用户名</string>
+    <string name="settings_account_access_token" translatable="false">访问令牌</string>
+    <string name="page_1">个人资料</string>
+    <string name="page_2">动态</string>
+    <string name="page_3">流</string>
+    <string name="page_4">热门</string>
+    <string name="page_5">朋友</string>
+    <string name="page_6">通知</string>
+    <string name="page_7">消息</string>
+    <string name="page_8">收藏</string>
+    <string name="page_9">我的社区</string>
+    <string name="page_10">搜索</string>
+    <string name="page_11">图库</string>
+    <string name="page_12">访客</string>
+    <string name="page_14">高级</string>
+    <string name="drawer_open">打开</string>
+    <string name="drawer_close">关闭</string>
+    <string name="title_activity_login">登录</string>
+    <string name="title_activity_signup">注册</string>
+    <string name="title_activity_main">流</string>
+    <string name="title_activity_recovery">密码恢复</string>
+    <string name="title_activity_settings">设置</string>
+    <string name="title_activity_web_view">网页浏览</string>
+    <string name="title_activity_change_password">更改密码</string>
+    <string name="title_activity_services">服务</string>
+    <string name="title_activity_new_item">新帖子</string>
+    <string name="title_activity_view_item">帖子</string>
+    <string name="title_activity_profile">个人资料</string>
+    <string name="hello_world" translatable="false">你好，世界！</string>
+    <string name="title_activity_search">搜索</string>
+    <string name="title_activity_notifications">通知</string>
+    <string name="title_activity_photo_view">照片</string>
+    <string name="title_activity_hashtags">标签</string>
+    <string name="title_activity_followings">关注</string>
+    <string name="title_activity_followers">关注者</string>
+    <string name="title_activity_feeds">动态</string>
+    <string name="title_activity_likes">喜欢此内容的人</string>
+    <string name="title_activity_account_settings">账户设置</string>
+    <string name="title_activity_report">报告</string>
+    <string name="title_activity_pro" translatable="false">ProActivity</string>
+    <string name="hello_blank_fragment" translatable="false">你好，空白片段</string>
+    <string name="title_activity_black_list">黑名单</string>
+    <string name="title_activity_dialogs">消息</string>
+    <string name="title_activity_chat">聊天</string>
+    <string name="title_activity_notifications_settings">通知设置</string>
+    <string name="title_activity_favorites">收藏</string>
+    <string name="title_activity_support">联系我们</string>
+    <string name="title_activity_location">位置</string>
+    <string name="title_activity_edit_item">编辑</string>
+    <string name="title_activity_deactivate">停用账户</string>
+    <string name="title_activity_repost">分享帖子</string>
+
+<!-- DKon.app | DK Lite -->
+    <string name="label_delete_photo_msg">您真的想删除这张照片吗？</string>
+    <string name="title_activity_new_photo">新照片</string>
+    <string name="title_activity_galery">图库</string>
+    <string name="msg_enter_photo">选择要发布的照片。</string>
+    <string name="label_photo_reported">照片已报告。</string>
+    <string name="placeholder_photo">照片评论…</string>
+    <string name="label_photos">照片</string>
+
+    <string name="title_activity_group">社区</string>
+    <string name="title_activity_groups">社区</string>
+    <string name="action_create_group">创建社区</string>
+    <string name="label_my_groups">我的社区</string>
+    <string name="label_managed_groups">管理的社区</string>
+    <string name="label_groups">社区</string>
+    <string name="label_group">社区</string>
+    <string name="label_group_category">社区主题</string>
+    <string name="label_group_name">名称</string>
+    <string name="label_group_link">社区链接（短名称）</string>
+    <string name="label_group_desc">社区描述</string>
+    <string name="label_group_location">位置</string>
+    <string name="label_group_website">网站</string>
+    <string name="label_group_founded">成立于</string>
+    <string name="label_group_allow_posts">所有社区成员可以发布帖子</string>
+    <string name="label_group_allow_comments">所有社区成员可以对帖子发表评论</string>
+    <string name="label_group_havent_items">该社区没有帖子。</string>
+    <string name="group_comments_disabled">帖子评论已禁用。</string>
+    <string name="label_group_search_results">查找社区：</string>
+    <string name="label_group_search_start_screen_msg">按名称查找社区。</string>
+    <string name="label_search_group">搜索社区</string>
+    <string name="msg_error_group_link">社区的短名称（链接）已被占用或不符合格式。</string>
+
+    <string name="title_activity_managed_groups">管理的社区</string>
+    <string name="title_activity_new_group">新社区</string>
+    <string name="group_category_1">活跃的节日</string>
+    <string name="group_category_2">艺术与文化</string>
+    <string name="group_category_3">汽车/摩托车</string>
+    <string name="group_category_4">美容与时尚</string>
+    <string name="group_category_5">商业</string>
+    <string name="group_category_6">电影</string>
+    <string name="group_category_7">烹饪</string>
+    <string name="group_category_8">约会与交流</string>
+    <string name="group_category_9">设计与图形</string>
+    <string name="group_category_10">教育</string>
+    <string name="group_category_11">电子产品与家用电器</string>
+    <string name="group_category_12">娱乐</string>
+    <string name="group_category_13">色情</string>
+    <string name="group_category_14">神秘学</string>
+    <string name="group_category_15">家庭</string>
+    <string name="group_category_16">金融</string>
+    <string name="group_category_17">食物</string>
+    <string name="group_category_18">游戏</string>
+    <string name="group_category_19">商品与服务</string>
+    <string name="group_category_20">健康</string>
+    <string name="group_category_21">爱好</string>
+    <string name="group_category_22">家居与装修</string>
+    <string name="group_category_23">幽默</string>
+    <string name="group_category_24">工业</string>
+    <string name="group_category_25">保险</string>
+    <string name="group_category_26">IT（计算机与软件）</string>
+    <string name="group_category_27">文学</string>
+    <string name="group_category_28">移动服务与互联网</string>
+    <string name="group_category_29">音乐</string>
+    <string name="group_category_30">新闻与媒体</string>
+    <string name="group_category_31">宠物</string>
+    <string name="group_category_32">照片</string>
+    <string name="group_category_33">政治</string>
+    <string name="group_category_34">房地产</string>
+    <string name="group_category_35">宗教</string>
+    <string name="group_category_36">科学与技术</string>
+    <string name="group_category_37">安全</string>
+    <string name="group_category_38">社会与人文学科</string>
+    <string name="group_category_39">体育</string>
+    <string name="group_category_40">电视</string>
+    <string name="group_category_41">旅行</string>
+    <string name="group_category_42">工作</string>
+
+
+    <string name="label_credits">代币</string>
+    <string name="label_credits_desc">代币是您可以用于升级和其他功能的虚拟货币。</string>
+
+    <string name="label_upgrades_ghost_mode">隐身模式</string>
+    <string name="label_upgrades_ghost_mode_desc">匿名浏览用户资料，他们不会收到您访问其资料的通知。</string>
+
+    <string name="label_upgrades_verified_badge">认证徽章</string>
+    <string name="label_upgrades_verified_badge_desc">用这个酷炫的徽章向其他人展示您是一个合法用户。</string>
+
+    <string name="label_upgrades_disable_ads">关闭广告</string>
+    <string name="label_upgrades_disable_ads_desc">厌倦了看到广告吗？关闭它的显示！</string>
+
+    <string name="title_activity_balance">购买代币</string>
+
+    <string name="action_buy_credits">获取更多代币</string>
+    <string name="action_enable">启用</string>
+
+    <string name="action_buy_iap1">购买30个代币（$1）</string>
+    <string name="action_buy_iap2">购买70个代币（$2）</string>
+    <string name="action_buy_iap3">购买120个代币（$3）</string>
+
+    <string name="label_ghost_mode_enabled">隐身模式已启用！</string>
+    <string name="label_verified_badge_enabled">认证徽章已启用！</string>
+    <string name="label_disable_ads_enabled">广告已关闭！</string>
+
+
+
+
+<!-- DKon.app | DK Lite -->
+    <string name="title_activity_view_youtube_video" translatable="false">YouTube Video</string>
+    <string name="youtube_player_error">初始化 YouTube 播放器时出错：%s</string>
+    <string name="label_only_with_photo">仅限照片</string>
+    <string name="label_additional">附加</string>
+    <string name="title_dialog_nearby_sex">选择性别</string>
+    <string name="label_gender_any">任何</string>
+    <string name="action_nearby_sex_settings">选择性别</string>
+
+    <string name="label_multi_account_msg">您不能创建多个账户！</string>
+
+    <!-- not translate START -->
+    <string name="settings_pro_mode" translatable="false">settings_pro_mode</string>
+    <!-- not translate END -->
+
+    <string name="label_updated_profile_photo">更新的个人资料照片。</string>
+    <string name="label_updated_cover_photo">更新的封面图片。</string>
+
+    <string name="msg_success_rewarded">恭喜！观看广告的奖励已记入您的余额！</string>
+
+    <string name="action_view_rewarded_video_ad">观看广告以获取奖励</string>
+
+    <string name="action_profile_edit_feeling">设置心情</string>
+    <string name="title_activity_feelings">心情</string>
+    <string name="label_item_feeling">感到</string>
+    <string name="label_feeling">心情</string>
+    <string name="action_select_feeling">选择心情</string>
+
+    <string name="msg_system_post">您无法编辑系统创建的标准帖子</string>
+
+    <string name="settings_notifications_friends_requests">好友请求</string>
+
+    <string name="action_see_all">查看全部</string>
+
+
+    <string name="nav_view_open" translatable="false">Open navigation drawer</string>
+    <string name="nav_view_close" translatable="false">Close navigation drawer</string>
+
+    <!-- DO NOT TRANSLATE START -->
+    <string name="default_notification_channel_id" translatable="false">my_channel_01</string>
+    <!-- DO NOT TRANSLATE END-->
+
+    <string name="tab_feed">动态</string>
+    <string name="tab_groups">社区</string>
+    <string name="tab_managed_groups">管理的社区</string>
+    <string name="tab_profile">个人资料</string>
+    <string name="tab_notifications">通知</string>
+    <string name="tab_messages">消息</string>
+    <string name="tab_menu">菜单</string>
+    <string name="tab_upgrades">更新</string>
+    <string name="tab_favorites">收藏</string>
+    <string name="tab_guests">访客</string>
+    <string name="tab_friends">朋友</string>
+    <string name="tab_gallery">画廊</string>
+    <string name="tab_nearby">附近的人</string>
+    <string name="tab_stream">流</string>
+    <string name="tab_settings">设置</string>
+    <string name="tab_market">商店</string>
+    <string name="tab_my_products">我的产品</string>
+    <string name="tab_popular">热门</string>
+
+
+
+    <string name="nav_feed" translatable="false">@string/tab_feed</string>
+    <string name="nav_groups" translatable="false">@string/tab_groups</string>
+    <string name="nav_managed_groups" translatable="false">@string/tab_managed_groups</string>
+    <string name="nav_profile" translatable="false">@string/tab_profile</string>
+    <string name="nav_notifications" translatable="false">@string/tab_notifications</string>
+    <string name="nav_messages" translatable="false">@string/tab_messages</string>
+    <string name="nav_menu" translatable="false">@string/tab_menu</string>
+    <string name="nav_upgrades" translatable="false">@string/tab_upgrades</string>
+    <string name="nav_favorites" translatable="false">@string/tab_favorites</string>
+    <string name="nav_guests" translatable="false">@string/tab_guests</string>
+    <string name="nav_friends" translatable="false">@string/tab_friends</string>
+    <string name="nav_gallery" translatable="false">@string/tab_gallery</string>
+    <string name="nav_nearby" translatable="false">@string/tab_nearby</string>
+    <string name="nav_stream" translatable="false">@string/tab_stream</string>
+    <string name="nav_settings" translatable="false">@string/tab_settings</string>
+    <string name="nav_market" translatable="false">@string/tab_market</string>
+    <string name="nav_my_products" translatable="false">@string/tab_my_products</string>
+    <string name="nav_popular" translatable="false">@string/tab_popular</string>
+    <string name="title_activity_upgrades">更新</string>
+    <string name="title_activity_stream">流</string>
+    <string name="title_activity_guests">访客</string>
+    <string name="title_activity_nearby">附近</string>
+    <string name="title_activity_popular">热门</string>
+
+    <string name="placeholder_toolbar_search">搜索</string>
+
+    <string name="label_messenger">消息应用</string>
+
+    <string name="action_profile_more">更多</string>
+    <string name="action_group_join">加入小组</string>
+    <string name="action_group_leave">离开小组</string>
+
+    <string name="msg_action_logout">您确定要退出吗？</string>
+    <string name="msg_new_item_promo">%s，您觉得怎么样？现在分享您的想法！</string>
+    <string name="msg_new_item_promo_2">立即创建新帖子！分享您的想法、感受和照片！</string>
+    <string name="msg_search_friends_promo">%s，看看谁在您附近！现在找到您的朋友！</string>
+
+    <string name="label_feed_desc">来自您朋友和社区的新闻。</string>
+    <string name="label_friends_desc">您的朋友列表。</string>
+
+<!-- DKon.app | DK Lite -->
+    <string name="action_back">返回</string>
+    <string name="action_choose_photo">选择照片</string>
+    <string name="action_choose_age">年龄</string>
+    <string name="action_choose_gender">性别</string>
+    <string name="action_grant_access">授予访问权限</string>
+    <string name="action_grant_access_success">访问权限已授予</string>
+    <string name="action_get_balance">购买积分</string>
+
+    <string name="register_screen_2_msg">请选择您的个人资料照片。</string>
+    <string name="register_screen_2_title">您的照片</string>
+    <string name="register_screen_2_subtitle">选择照片时要有创意！</string>
+
+    <string name="register_screen_3_msg">请提供性别和年龄。</string>
+    <string name="register_screen_3_title">性别和年龄</string>
+    <string name="register_screen_3_subtitle">提供性别和年龄</string>
+
+    <string name="register_screen_4_title">附近的人</string>
+    <string name="register_screen_4_subtitle">为了访问某些功能，应用需要使用您的位置信息的权限。</string>
+    <string name="label_secret">秘密</string>
+    <string name="label_unknown">未知</string>
+    <string name="label_sex_secret">性别保密</string>
+    <string name="label_sex_unknown">性别未知</string>
+
+    <string name="label_register_terms">点击继续，即表示您同意我们的</string>
+
+    <string name="msg_account_deactivated">该账户已被用户停用。</string>
+
+    <string name="dlg_delete_location_title">位置</string>
+    <string name="dlg_delete_location_subtitle">删除位置吗？</string>
+
+    <string name="dlg_delete_feeling_title">心情</string>
+    <string name="dlg_choice_image_title">选择图像</string>
+    <string name="dlg_choice_gift_title">礼物</string>
+    <string name="dlg_choice_feeling_title">心情</string>
+
+    <string name="title_edit_item">编辑项目</string>
+    <string name="title_new_item">新项目</string>
+
+    <string name="action_add_location">添加位置</string>
+    <string name="action_add_image">添加图像/照片</string>
+    <string name="action_add_video">添加视频</string>
+    <string name="action_add_feeling">设置心情</string>
+
+    <string name="action_view_repost">查看转发</string>
+
+
+
+    <string name="image_of" translatable="false">%1$d of %2$d</string>
+    <string name="price_of" translatable="false">%d credits</string>
+    <string name="images_limit_of">您已达到限制。每个帖子最多 %d 张图片。</string>
+    <string name="video_limit_of">您已达到限制。每个帖子最多 %d 个视频文件。</string>
+    <string name="account_balance_label">您的余额为 %d 积分。</string>
+
+    <string name="label_empty_comments_list">还没有评论。</string>
+
+    <string name="label_profile_photo_rejected_new">%s 拒绝了您的个人资料照片。请上传/更改个人资料照片。</string>
+    <string name="label_profile_cover_rejected_new">%s 拒绝了您的个人资料封面。请上传/更改个人资料封面。</string>
+
+    <string name="label_gcm_profile_photo_reject">您的个人资料照片已被拒绝。</string>
+    <string name="label_gcm_profile_cover_reject">您的个人资料封面已被拒绝。</string>
+
+
+
+
+<!-- DKon.app | DK Lite -->
+    <!-- not translate START -->
+    <string name="settings_account_allow_gifts_gcm" translatable="false">allow_gifts_gcm</string>
+    <string name="settings_account_allow_likes_gcm" translatable="false">allow_likes_gcm</string>
+    <string name="settings_account_allow_friends_requests_gcm" translatable="false">allow_friends_requests_gcm</string>
+    <!-- not translate END -->
+    <string name="settings_privacy_gallery">仅向朋友显示我的画廊</string>
+    <string name="settings_allow_comments_to_gallery_items">允许对我的画廊评论</string>
+
+    <string name="label_delete_item_msg">您想删除此项目吗？</string>
+    <string name="label_item_reported">项目已被举报。</string>
+    <string name="title_activity_new_gallery_item">新画廊项目</string>
+
+<!-- DKon.app | DK Lite -->
+    <string name="title_activity_balance_history">余额历史</string>
+    <string name="settings_view_balance_history">余额历史</string>
+    <string name="settings_view_balance">余额</string>
+
+    <string name="label_payments_credits_stripe">通过 Stripe 购买积分</string>
+    <string name="label_payments_credits_android">通过 Android 内购购买积分</string>
+    <string name="label_payments_credits_ios">通过 iOS 内购购买积分</string>
+    <string name="label_payments_credits_admob">观看广告的代币</string>
+    <string name="label_payments_send_gift">发送礼物</string>
+    <string name="label_payments_verified_badge">激活认证徽章功能</string>
+    <string name="label_payments_ghost_mode">激活隐身模式</string>
+    <string name="label_payments_off_admob">在应用中关闭 Admob 广告</string>
+    <string name="label_payments_registration_bonus">注册奖金</string>
+    <string name="label_payments_referral_bonus">推荐奖金</string>
+
+<!-- DKon.app | DK Lite -->
+    <string name="msg_play_video_error">无法播放视频。文件未找到。</string>
+
+
+    <string name="action_image_from_gallery">来自画廊的图像</string>
+    <string name="action_image_from_camera">拍照</string>
+    <string name="action_choice_sticker">贴纸</string>
+
+
+
+
+    <string name="error_client_id" translatable="false">CLIENT_ID - Incorrect or not the same in both config files! Make the correct configuration of the config files!</string>
+    <string name="error_client_secret" translatable="false">CLIENT_SECRET - Incorrect or not the same in both config files! Make the correct configuration of the config files!</string>
+
+    <string name="msg_video_copy_error">复制文件时发生错误。请选取其他文件或重试。</string>
+
+
+    <string name="title_activity_recently_deleted">最近删除的</string>
+    <string name="settings_view_recently_deleted">最近删除的</string>
+    <string name="settings_view_recently_deleted_summary">最近删除的消息。删除不超过 14 天的消息可以恢复或永久删除。</string>
+    <string name="action_restore">恢复</string>
+    <string name="action_delete_permanently">永久删除</string>
+
+    <string name="label_restore_post">恢复消息吗？</string>
+    <string name="label_restore_post_desc">如果您恢复它，其他人将能够再次查看和互动。</string>
+
+    <string name="label_delete_permanently_post">永久删除消息吗？</string>
+    <string name="label_delete_permanently_post_desc">如果您删除它，将无法恢复。</string>
+
+
+    <!-- not translate START -->
+    <string name="settings_interstitial_ad_after_new_item" translatable="false">settings_interstitial_ad_after_new_item</string>
+    <string name="settings_interstitial_ad_after_new_gallery_item" translatable="false">settings_interstitial_ad_after_new_gallery_item</string>
+    <string name="settings_interstitial_ad_after_new_market_item" translatable="false">settings_interstitial_ad_after_new_market_item</string>
+    <string name="settings_interstitial_ad_after_new_like" translatable="false">settings_interstitial_ad_after_new_like</string>
+
+    <string name="settings_interstitial_ad_after_new_item_current_val" translatable="false">settings_interstitial_ad_after_new_item_current_val</string>
+    <string name="settings_interstitial_ad_after_new_gallery_item_current_val" translatable="false">settings_interstitial_ad_after_new_gallery_item_current_val</string>
+    <string name="settings_interstitial_ad_after_new_market_item_current_val" translatable="false">settings_interstitial_ad_after_new_market_item_current_val</string>
+    <string name="settings_interstitial_ad_after_new_like_current_val" translatable="false">settings_interstitial_ad_after_new_like_current_val</string>
+    <!-- not translate END -->
+
+    <string name="action_pin">固定</string>
+    <string name="action_unpin">取消固定</string>
+    <string name="label_item_pinned">已固定</string>
+
+    <string name="msg_item_pinned">项目已固定在项目列表的顶部</string>
+    <string name="msg_item_unpinned">项目已从项目列表的顶部取消固定</string>
+
+
+
+    <string name="title_activity_otp_verification" translatable="false">OTP Verification</string>
+    <string name="settings_view_otp_verification" translatable="false">OTP Verification</string>
+    <string name="settings_view_otp_verification_summary">通过手机号码进行验证</string>
+
+    <string name="otp_phone_number_placeholder">请输入手机号码...</string>
+    <string name="otp_sms_code_placeholder">请输入短信中的六位代码</string>
+    <string name="otp_action_send_code">发送代码</string>
+    <string name="otp_action_resend_code">重新发送代码</string>
+    <string name="otp_action_check_code">检查代码</string>
+
+    <string name="otp_verification_promo">此功能仅对已绑定并确认手机号码的用户可用。将您的手机号码绑定到您的帐户并通过短信确认，以便无障碍使用所有功能！</string>
+    <string name="otp_verification_success_msg">太好了。验证成功完成！</string>
+    <string name="otp_verification_error_msg">错误。验证未完成</string>
+    <string name="otp_verification_code_error_msg">您输入的短信代码不正确</string>
+    <string name="otp_verification_code_error_msg_2">代码不正确。</string>
+    <string name="otp_verification_code_sent_msg">验证码已发送到您的手机</string>
+    <string name="otp_verification_phone_number_error_msg">电话号码格式不正确。</string>
+    <string name="otp_verification_phone_number_taken_error_msg">该电话号码已绑定到另一个帐户。</string>
+    <string name="otp_verification_phone_number_error_msg_2">电话号码格式不正确。</string>
+    <string name="otp_verification_many_requests_error_msg">由于异常活动，我们已阻止来自该设备的所有请求。请稍后再试。</string>
+
+    <string name="otp_phone_number_info">国际格式的手机号码，例如：+8613812345678</string>
+    <string name="otp_sms_code_info">短信中的六位代码</string>
+
+
+    <string name="settings_account_otp_verification" translatable="false">otp_verification</string>
+    <string name="settings_account_tooltip_otp_verification" translatable="false">tooltip_otp_verification</string>
+    <string name="settings_account_otp_phone_number" translatable="false">otp_phone_number</string>
+    <string name="settings_language" translatable="false">lng_language</string>
+
+    <string name="language_default" translatable="false">Default (English)</string>
+    <string name="title_select_language">选择语言</string>
+    <string name="settings_language_label">语言</string>
+    <string name="settings_language_summary">您可以选择语言</string>
+
+    <string name="action_explore">探索</string>
+    <string name="dlg_authorization_title">授权</string>
+    <string name="dlg_authorization_msg">只有经过授权的用户才能执行此操作</string>
+
+    <string name="otp_tooltip_msg">绑定您的手机号码并获得积分，您可以使用这些积分发送礼物和激活额外功能！</string>
+    <string name="action_link_number">绑定号码</string>
+
+    <string name="label_payments_otp_verification_bonus">OTP 验证奖金</string>
+
+    <!-- DKon.app | DK Lite -->
+
+    <string name="action_login_with_google">通过 Google 登录</string>
+    <string name="action_signup_with_google">通过 Google 注册</string>
+    <string name="action_connect_with_google">通过 Google 连接</string>
+
+    <string name="label_account_connected_to_google">通过 Google 连接</string>
+    <string name="label_account_connect_to_google">将此帐户连接到您的 Google 帐户</string>
+
+    <string name="msg_connect_to_google_success">您已成功将应用程序与您的 Google 帐户关联！</string>
+    <string name="msg_connect_to_google_error">您的 Google 帐户已与另一个帐户关联。</string>
+    <string name="msg_connect_to_google_removed">与您的 Google 帐户的关联已被删除。</string>
+
+    <string name="label_authorization_via_google">通过 Google 授权。</string>
+
+   <!-- DKon.app | DK Lite -->
+
+    <string name="settings_night_mode" translatable="false">night_mode</string>
+    <string name="settings_feed_mode" translatable="false">feed_mode</string>
+    <string name="settings_night_mode_label">夜间模式</string>
+    <string name="settings_night_mode_summary">您可以切换应用程序主题</string>
+
+    <string name="label_feed_mode_0">所有发布的动态</string>
+    <string name="label_feed_mode_1">来自朋友和社区的更新</string>
+    <string name="dkon_action_call">拨打电话</string>
+
+
+</resources>
